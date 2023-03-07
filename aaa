@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Desarrollo Web</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+    <h1 style="color: brown;">bienvenidos a jorobascorps</h1>    
+    <h6>Wena wom</h6>
+    <!--esto es un link-->
+    <a href="http://www.google.cl" target="_blank">Dar clic acá</a>
+
+    <!--salto de linea-->
+    <br>
+
+    <!--imagen en la pagina-->
+    <img src="img/anashei.jpg"width="500 px" height="500 px">
+
+    <br>
+    <!--<ul>
+    <li>Perro</li>
+    <li>Gato</li>
+    <li>Conejo</li>
+    <li>Vaca</li>
+
+    </ul>
+    <br>
+    <ol>
+    <li>Perro</li>
+    <li>Gato</li>
+    <li>Conejo</li>
+    <li>Vaca</li>
+
+    </ol>-->
+
+    <br>
+
+    <center>
+
+    <table border="1">
+        <caption>Desarrollo web duoc</caption>
+        <tr>
+            <th>Nombre</th>
+            <th>Apellido</th>   
+            <th>Edad</th>
+            <th>Nacionalidad</th>
+
+        </tr>
+
+        <tr>
+            <td>Gabriel</td>
+            <td>Tapia</td>
+            <td>19</td>
+            <td>Chileno</td>
+        </tr>
+
+    </tr>
+
+    <tr>
+        <td>Martin</td>
+        <td>Araya</td>
+        <td>19</td>
+        <td>Chileno</td>
+    </tr>
+
+</tr>
+
+<tr>
+    <td>Maty</td>
+    <td>Vargas</td>
+    <td>19</td>
+    <td>Chileno</td>
+</tr>
+    </table>
+
+    </center>
+!--es para parrafos
+    <p></p>
+
+</body>
+</html>
